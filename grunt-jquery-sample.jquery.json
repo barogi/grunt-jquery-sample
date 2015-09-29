@@ -1,0 +1,25 @@
+{
+  "name": "grunt-jquery-sample",
+  "title": "Grunt jQuery Sample",
+  "description": "Sample jquery project",
+  "version": "0.1.0",
+  "homepage": "https://github.com/barogi/grunt-jquery-sample",
+  "author": {
+    "name": "barogi",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barogi/grunt-jquery-sample.git"
+  },
+  "bugs": "https://github.com/barogi/grunt-jquery-sample/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/barogi/grunt-jquery-sample/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
